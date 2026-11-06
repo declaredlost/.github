@@ -1,15 +1,10 @@
 <div align="center">
 
-# Declared Lost
+**A sidescrolling multiplayer action RPG, built with Bevy. In early development.**
 
-**A sidescrolling multiplayer action RPG, built with Bevy.**
-
-[**declaredlost.com**](https://declaredlost.com)
+[**declaredlost.com**](https://declaredlost.com) · [**devlog**](https://declaredlost.com/devlog/)
 
 </div>
-
-Declared Lost is in early development. Follow along on the
-[devlog](https://declaredlost.com/devlog/).
 
 ## Bevy extensions
 
